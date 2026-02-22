@@ -108,7 +108,7 @@ export default function ProjectsPage() {
               </p>
 
               <Link
-                href="https://react-text-motion-studio.vercel.app/"
+                href="https://ecommerce-mern-six-flax.vercel.app/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-block mt-4 text-[#39FF14] font-semibold hover:underline"

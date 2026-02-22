@@ -74,13 +74,14 @@ export default function HomePage() {
                 View Projects
               </Link>
 
-              <Link
-                href="/resume.pdf"
+              <a
+                href="/Mohana_Aditiyan_Full_Stack_Developer_Resume.pdf"
                 target="_blank"
+                rel="noopener noreferrer"
                 className="flex items-center gap-3 text-sm hover:text-[#3b82f6] transition"
               >
                 Download Resume
-              </Link>
+              </a>
             </motion.div>
           </div>
         </div>
